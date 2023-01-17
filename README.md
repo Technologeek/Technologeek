@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Computer Science Engineer based in Ireland.</h1>
+<h1 align="center">Hi 👋, I'm a Computer Science Engineer based in Ireland.</h1>
 <h3 align="center">I like working for StartUps, mostly on tech side of things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technologeek&label=Profile%20views&color=0e75b6&style=flat" alt="technologeek" /> </p>
