@@ -1,5 +1,15 @@
 # 💫 About Me:
- 👯 **I’m looking to collaborate on**: Open source projects that need help migrating their frontend to React/Solid or optimizing their bundlers for better speed and HMR performance.<br> 🌱 **I’m currently learning**: Rust to create tooling for modern web apps.<br> 💬 **Ask me about**: Enterprise software systems, distributed networks, and blockchain!<br> 🚀 **I’m passionate about**: Building scalable products and working in fast-paced startup environments.<br> 🛠️ **I love working with**: Modern frontend frameworks and developer experience improvements<br>⚡ **I enjoy solving**: Complex architectural challenges and optimizing workflows for better efficiency.<br>
+ 👯 **I’m looking to collaborate on**: Open source projects that need help migrating their frontend to React/Solid or optimizing their bundlers for better speed and HMR performance.<br>
+ 
+ 🌱 **I’m currently learning**: Rust to create tooling for modern web apps.<br> 
+ 
+ 💬 **Ask me about**: Enterprise software systems, distributed networks, and blockchain!<br>
+ 
+ 🚀 **I’m passionate about**: Building scalable products and working in fast-paced startup environments.<br> 
+ 
+ 🛠️ **I love working with**: Modern frontend frameworks and developer experience improvements<be>
+ 
+ ⚡ **I enjoy solving**: Complex architectural challenges and optimizing workflows for better efficiency.<br>
 
 
 ## 🌐 Socials:
